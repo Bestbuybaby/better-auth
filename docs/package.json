@@ -67,7 +67,7 @@
     "lucide-react": "^0.435.0",
     "mini-svg-data-uri": "^1.4.4",
     "motion": "^10.18.0",
-    "next": "^15.0.1",
+    "next": "^15.5.18",
     "next-themes": "^0.3.0",
     "oslo": "^1.2.1",
     "prism-react-renderer": "^2.4.0",
