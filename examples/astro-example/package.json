@@ -21,7 +21,7 @@
     "@corvu/resizable": "^0.2.3",
     "@kobalte/core": "^0.13.6",
     "@oslojs/encoding": "^1.0.0",
-    "astro": "^4.15.9",
+    "astro": "^6.4.6",
     "better-auth": "workspace:*",
     "@types/better-sqlite3": "^7.6.11",
     "better-sqlite3": "^11.3.0",
